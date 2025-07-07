@@ -1,1 +1,0 @@
-before you run the application, go to “\Venturestar\VerpPos\Assets\Database” and delete the "pos" file
